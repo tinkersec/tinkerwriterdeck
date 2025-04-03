@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Initial config script for the Tinker WriterDeck
+# Assumes fresh install of Debian 12.10.0 "Bookworm"
 
 # Enable password bypass
 # Note: For security purposes, this machine should not be (and is not intended to be) connected to the network.
