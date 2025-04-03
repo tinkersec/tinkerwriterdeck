@@ -66,7 +66,7 @@ echo "alias shutdown='sudo shutdown -h now'" >> /home/author/.bashrc
 # Set text editor to run at startup
 echo "" >> /home/author/.profile
 echo "# Boot directly into Text Editor of your choice" >> /home/author/.profile
-echo "# To change text editor, comment out the text editors your dont want using a pound sign or hashtag" >> /home/author/.profile
+echo "# To change text editor, comment out the text editors you dont want using a pound sign or hashtag" >> /home/author/.profile
 echo "# Add line for the text editor you do want to use. See examples below:" >> /home/author/.profile
 echo "# /usr/bin/joe" >> /home/author/.profile
 echo "/usr/bin/tilde" >> /home/author/.profile
