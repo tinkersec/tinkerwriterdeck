@@ -26,7 +26,9 @@ https://github.com/tinkersec/tinkerwriterdeck/blob/main/initialConfig.sh
 
 Then disconnect from wifi and enjoy.
 
-Security Note: This current version does not include full disk encryption or support for encrypted USBs.
+Security Note: For Full Disk Encryption, please configure during installation of Debian.
+
+Without Full Disk Encryption, please consider that:
 - No password is required to log into the writer deck.
 - No password is required to run at sudo or root privileges.
 - Do not store anything on the Writer Deck that you would not want others to read if they got physical access to the device.
