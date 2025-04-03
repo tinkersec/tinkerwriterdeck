@@ -18,7 +18,6 @@ Install the following programs:
 - sudo apt install tilde
 - sudo apt install tmux
 - sudo apt install udiskie
-- sudo apt install joe
 - sudo apt install network-manager
 
 Upload, chmod +x, and run the following script:
