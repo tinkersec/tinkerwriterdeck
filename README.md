@@ -6,6 +6,14 @@ Converts any 64-bit PC (amd64) based laptop into a writer deck, or a device sole
 
 Website: https://tinker.sh
 
+## Warning
+
+Please note, the current Installation ISO found at https://tinker.sh/#download will begin installation immediately, wiping the entire hard drive and replacing it with Tinker Writer Deck OS.
+
+This is noted in more detail here: https://tinker.sh/#install
+
+If you want a more controlled installation experience, please follow the instructions below.
+
 ## Instructions:
 
 Install a "headless" (or Desktop Environment Free) version of Debian 12.10 "Bookworm": https://www.debian.org/releases/bookworm/
