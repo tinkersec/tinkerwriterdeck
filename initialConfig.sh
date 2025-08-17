@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Initial config script for the Tinker WriterDeck
+# Initial config script for the writerdeckOS v1.0
 # Assumes fresh install of Debian 12.10.0 "Bookworm"
 
 # Enable password bypass
