@@ -1,16 +1,16 @@
-# Tinker WriterDeck
+# writerdeckOS
 
-Tinker Writer Deck
+writerdeckOS
 
 Converts any 64-bit PC (amd64) based laptop into a writer deck, or a device solely designed around distraction free writing.
 
-Website: https://tinker.sh
+Website: https://writerdeckOS.com
 
 ## Warning
 
-Please note, the current Installation ISO found at https://tinker.sh/#download will begin installation immediately, wiping the entire hard drive and replacing it with Tinker Writer Deck OS.
+Please note, the current Installation ISO found at https://writerdeckOS.com/#download will begin installation immediately, wiping the entire hard drive and replacing it with Tinker Writer Deck OS.
 
-This is noted in more detail here: https://tinker.sh/#install
+This is noted in more detail here: https://writerdeckOS.com/#install
 
 If you want a more controlled installation experience, please follow the instructions below.
 
@@ -29,7 +29,7 @@ Install the following programs:
 - sudo apt install network-manager
 
 Upload, chmod +x, and run the following script:
-https://github.com/tinkersec/tinkerwriterdeck/blob/main/initialConfig.sh
+https://github.com/tinkersec/writerdeckOS/blob/main/initialConfig.sh
 
 Then disconnect from wifi and enjoy.
 
